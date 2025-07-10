@@ -75,8 +75,12 @@ client/
 
 ## 📸 Screenshots
 
-> _Add screenshots of your Home, Booking, and Dashboard pages here for extra polish!_
+
 ![image](https://github.com/user-attachments/assets/de13f384-4a0d-4661-b829-bf1c96a15c2a)
+![image](https://github.com/user-attachments/assets/cd8cb253-4e27-4307-9fc7-0f14e229f039)
+![image](https://github.com/user-attachments/assets/f01362d7-fdf6-4e53-ae17-37681b44ecf3)
+
+
 
 ---
 
